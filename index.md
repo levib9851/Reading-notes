@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my reading notes
 
 You can use the [editor on GitHub](https://github.com/levib9851/Reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
